@@ -1,4 +1,19 @@
-### Hi there 👋
+### Greetings! 👋
+---
+My name is Adam Forsell!
+I'm a Game Designer and Developer - I have a BA and a MS in Games Design, and am currently doing a Vocational Education (VET) called Game Creator Programmer at Yrgo, Gothenburg!
+It only seemed natural for me to hop on over to coding now as I want to be able to actually make games, not just in my head! 😁<p>&nbsp;</p>
+
+
+Here you can find my repositories for the projects that I have or are working on! 
+* [The Unwanted Helper (Spidergame)]()
+<p>&nbsp;</p>
+
+
+If you are looking to **Play** any of my games, head over to my itch.io-page:
+[Aduman.itch.io](https://aduman.itch.io/)
+
+To have a more visual overview of what I have done, check out my portfolio-website: [Adam Forsell](https://adamforsell.wordpress.com/)
 
 <!--
 **Addehman/Addehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
