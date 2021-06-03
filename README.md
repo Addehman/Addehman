@@ -15,7 +15,7 @@ Here you can find some of my repositories for the projects that I have or are wo
 If you are looking to **Play** any of my games, head over to my itch.io-page:
 [Aduman.itch.io](https://aduman.itch.io/)
 
-To have a more visual overview of what I have done, check out my portfolio-website: [Adam Forsell](https://adamforsell.wordpress.com/)
+To have a more visual overview of what I have done, check out my portfolio-website: [Adam Forsell - Portfolio](https://adamforsell.wordpress.com/)
 
 <!--
 **Addehman/Addehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
