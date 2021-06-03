@@ -6,7 +6,7 @@ It only seemed natural for me to hop on over to coding now as I want to be able 
 
 
 Here you can find some of my repositories for the projects that I have or are working on! 
-* [The Unwanted Helper (Spidergame - Arachnophobia Studios)](https://github.com/Addehman/Arachnophobia-Studios)
+* [The Unwanted Helper (SpiderGame - Arachnophobia Studios)](https://github.com/Addehman/Arachnophobia-Studios)
 * [Were.Wolf](https://github.com/MrJackey/Were.Wolf)
 * [A Childhood Memory(Project-Well)](https://github.com/tzaarela/AChildhoodMemory)
 <p>&nbsp;</p>
